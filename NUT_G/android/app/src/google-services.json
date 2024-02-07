@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803408885622",
+    "project_id": "nut-g-21a8c",
+    "storage_bucket": "nut-g-21a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803408885622:android:55d4c3aaaeb0d6228eac57",
+        "android_client_info": {
+          "package_name": "com.example.nut_g"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjDvDaZMxRbyWmYlrCGKpKxwZo3bS3Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
